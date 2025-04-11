@@ -11,6 +11,7 @@ using System.Windows.Forms;
 namespace DuAnQLBaiDoXe
 {
     public partial class Form1: Form
+
     {
         public Form1()
         {

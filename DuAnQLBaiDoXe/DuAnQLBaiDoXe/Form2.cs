@@ -10,7 +10,9 @@ using System.Windows.Forms;
 
 namespace DuAnQLBaiDoXe
 {
+
     public partial class Form2: Form
+
     {
         public Form2()
         {

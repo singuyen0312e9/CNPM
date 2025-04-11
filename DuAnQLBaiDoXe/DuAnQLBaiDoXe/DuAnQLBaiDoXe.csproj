@@ -4,7 +4,9 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B09F115B-24D9-49CA-91E3-C0AE01AFD143}</ProjectGuid>
+
+    <ProjectGuid>{688F2E45-1D47-418B-8728-2506DAF128C5}</ProjectGuid>
+
     <OutputType>WinExe</OutputType>
     <RootNamespace>DuAnQLBaiDoXe</RootNamespace>
     <AssemblyName>DuAnQLBaiDoXe</AssemblyName>
@@ -54,9 +56,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
+
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

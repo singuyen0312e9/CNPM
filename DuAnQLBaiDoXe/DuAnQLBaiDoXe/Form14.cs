@@ -10,10 +10,9 @@ using System.Windows.Forms;
 
 namespace DuAnQLBaiDoXe
 {
-    public partial class Form1: Form
-
+    public partial class Form14: Form
     {
-        public Form1()
+        public Form14()
         {
             InitializeComponent();
         }
